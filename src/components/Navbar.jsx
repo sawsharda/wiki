@@ -1,10 +1,9 @@
-export default function Navbar(){
-    return(
-        <div>
-            <header className="bg-dark text-white ">
-                <h1>Navigation</h1>
-
-            </header>
-        </div>
-    )
+export default function Navbar() {
+  return (
+    <nav>
+      <header className="bg-dark text-white ">
+        <h1>Navigation</h1>
+      </header>
+    </nav>
+  );
 }
