@@ -1,11 +1,11 @@
-import Navbar from "./components/navbar"
-import Wiki from "./components/Wiki"
+import Navbar from "./components/Navbar";
+import Wiki from "./components/Wiki";
 
-export default function App(){
-  return(
+export default function App() {
+  return (
     <div>
-      {/* <Navbar /> */}
+      <Navbar />
       <Wiki />
     </div>
-  )
+  );
 }
