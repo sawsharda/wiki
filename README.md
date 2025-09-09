@@ -1,7 +1,7 @@
 ## How to create from terminal
-
-```
 In Terminal
+```
+
 npm create vite
 In VS
 npm run dev
@@ -11,12 +11,12 @@ npm run dev
 
 ### Styling
 ```
-min-vh-100   Minimum height = 100% of the viewport height
+min-vh-100  {// Minimum height = 100% of the viewport height}
 ```
 
 ### For input
 ```
-form-control  Adds padding, border, shadow, and makes input 100% width
+form-control  {//Adds padding, border, shadow, and makes input 100% width}
 ```
 
 ### For Graph in React
@@ -42,3 +42,5 @@ import {
 <Col xs={12} md={6} lg={4}></Col>
 
 ```
+### 
+
